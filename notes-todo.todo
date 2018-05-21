@@ -1,0 +1,5 @@
+# NOTES & TODO
+
+- To run browser sync in a whole project:
+	-> in a terminal or CMD:
+		browser-sync start --server --directory --files "**/*"
